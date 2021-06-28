@@ -75,7 +75,7 @@ input[type="checkbox"]{
 		top: 12px;
 		left:  0;
 		transition: background .2s linear;
-		background: url("../img/On - Disabled — копия.svg") no-repeat left;
+		background: url("../img/copi.svg") no-repeat left;
 
 	}	
 	input[type="checkbox"]:checked+label:before{
